@@ -10,7 +10,3 @@ def cool_button():
             </span>
         </button>\n'''
     return '<p>Hello Cool Button</p>' + cool_button
-
-
-if __name__ == '__main__':
-    app.run()
